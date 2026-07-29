@@ -46,7 +46,7 @@ def input_image_setup(uploaded_file):
 
 st.set_page_config(page_title="Gemini Image Demo")
 
-st.markdown('<h1 class="main-title">📄 INVOICE IMAGE EXTRACTOR (ATS) by SARS Next Solution - GENAI Project 🚀</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-title">📄 INVOICE IMAGE EXTRACTOR (ATS) by Goutham Aduri - GENAI Project 🚀</h1>', unsafe_allow_html=True)
 
 st.header("GEN AI Application - Finance Invoice Q&A Chatbot")
 input=st.text_input("Input Prompt: ",key="input")
